@@ -1,4 +1,4 @@
-name: Horizons
-description: Horizons template for Jekyll
+name: Government College Kasaragod
+description: Government College Kasragod Website
 paginate: 10
-baseurl: '/Horizons-Jekyll-Theme'
+baseurl: '/gck.ac.in'
