@@ -1,4 +1,4 @@
 name: Government College Kasaragod
 description: Government College Kasragod Website
 paginate: 10
-baseurl: '/gck.ac.in'
+baseurl: '/'
